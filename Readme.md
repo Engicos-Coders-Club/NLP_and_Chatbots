@@ -1,6 +1,6 @@
 # Tech Thursday 6 : NLP and Chatbots
 
-![Presentaion.jpg](Presentation.jpg)
+![Presentaion.jpg](Presentation.png)
 
 Welcome to the repository for the sixth event of the Tech Thursday series, focused on "NLP and Chatbots". This repository contains valuable resources and code related to the event. The objective of this series is to explore unique and hard-to-find topics in technology, providing expert guidance and sharing knowledge and experiences among students.
 
