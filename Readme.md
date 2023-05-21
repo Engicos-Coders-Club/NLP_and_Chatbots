@@ -1,6 +1,6 @@
 # Tech Thursday 6 : NLP and Chatbots
 
-![Presentaion.jpg]([Presentation.jpg](https://github.com/Engicos-Coders-Club/NLP_and_Chatbots/Presentation.jpg))
+![Presentaion.jpg](Presentation.jpg)
 
 Welcome to the repository for the sixth event of the Tech Thursday series, focused on "NLP and Chatbots". This repository contains valuable resources and code related to the event. The objective of this series is to explore unique and hard-to-find topics in technology, providing expert guidance and sharing knowledge and experiences among students.
 
@@ -11,7 +11,7 @@ The event was divided into two main parts. In the first half, we provided an ext
 The second half of the event focused on practical demonstrations of two types of NLP machine learning models: Rule-Based Models and Generative Models. During the session, the speaker walked us through the entire process of creating a Rule-Based model, which can be seamlessly integrated into our applications. Furthermore, the speaker showcased the ease of using prebuilt Generative NLP models from huggingface.com. By adjusting specific parameters, we were able to achieve the desired outputs from these models. The code for both types of model demonstrations can be found in their respective directories within this repository.
 
 Demostration of one of the Prebuilt Generative model :
-![Google_FlanT5](https://github.com/Engicos-Coders-Club/NLP_and_Chatbots/GenerativeModels/Flan-t5-baseTesting.jpg)
+![Google_FlanT5](GenerativeModels/Flan-t5-baseTesting.jpg)
 
 ## Table of Contents
 
@@ -63,6 +63,6 @@ We would like to express our gratitude to the contributors and participants who 
 
 ## Contact
 
-For any inquiries or suggestions regarding this repository, please feel free to reach out to the speaker at [Atmanand Gauns]([mailto:email@example.com](https://tu2-atmanand.github.io/#/home)). We appreciate your feedback and look forward to hearing from you.
+For any inquiries or suggestions regarding this repository, please feel free to reach out to the speaker at [Atmanand Gauns](https://tu2-atmanand.github.io/#/home). We appreciate your feedback and look forward to hearing from you.
 
 Let's explore the fascinating world of NLP and Chatbots together!
