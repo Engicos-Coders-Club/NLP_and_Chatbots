@@ -1,13 +1,14 @@
-# Rule Based Model
 
-bring some theory from chatGPT
+## Rule-Based Models
+
+Rule-Based models are a fundamental approach in Natural Language Processing (NLP) that rely on a predefined set of linguistic rules and patterns to analyze and process text. These models aim to capture the inherent structure and grammar of the language by leveraging a set of handcrafted rules, regular expressions, and domain-specific knowledge. The rules define patterns or conditions that, when satisfied by the input text, trigger specific actions or outputs. Unlike machine learning-based models that learn patterns from data, Rule-Based models offer explicit control and interpretability, allowing developers to precisely define the desired behavior. By encoding linguistic and semantic rules, these models excel in tasks that require structured and rule-driven reasoning, such as named entity recognition, part-of-speech tagging, and syntactic parsing. While Rule-Based models may lack the flexibility to adapt to unseen patterns, they offer transparency and interpretability, making them a valuable tool in various NLP applications.
 
 ## How to use it ?
 
 #### Method 1: Try on Google Colab
 
-It is highly recommended that you use the [Rule_Based_Bot.ipnyb](./Rule_Based_Bot.ipynb) jupyter notebook and try it on any of the online platform like  google Colab or Tensorflow Jupyter Notebook.
-This note book will explain the step by step process, with the nice comments on how the actual process of model creation works and what steps you have to follow to build you final Chatbot model.
+It is highly recommended that you first use the [Rule_Based_Bot.ipnyb](./Rule_Based_Bot.ipynb) jupyter notebook and try it on any of the online platform like  google Colab or Tensorflow Jupyter Notebook before setting up on your main machine to understand the code better.
+This note book will explain the step by step process, with nice comments on how the actual process of model creation works and what steps you have to follow to build you final Chatbot model.
 
 #### Method 2 : Setup on you Local Machine
 
