@@ -32,7 +32,7 @@ To utilize the code and resources in this repository, please follow these instal
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Engicos-Coders-Club/NLP_and_Chatbots.git
    ```
 
 2. To use the specific Models, navigate into the respective folder and read the readme to setup the workspace.
